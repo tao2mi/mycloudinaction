@@ -6,9 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eurekaserver" />
-        <module name="helloservice" />
         <module name="ribbonconsumer" />
+        <module name="eureka-server" />
+        <module name="ribbon-consumer" />
+        <module name="feign-consumer" />
+        <module name="helloservice" />
+        <module name="hello-service" />
+        <module name="eurekaserver" />
       </profile>
     </annotationProcessing>
   </component>

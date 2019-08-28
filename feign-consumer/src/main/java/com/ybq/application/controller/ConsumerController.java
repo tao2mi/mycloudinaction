@@ -14,6 +14,6 @@ public class ConsumerController {
 
     @RequestMapping("hello")
     public String hello() {
-        return helloService.helloService();
+        return helloService.hello();
     }
 }
