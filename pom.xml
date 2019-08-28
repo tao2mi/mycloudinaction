@@ -6,7 +6,13 @@
 
     <groupId>com.ybq</groupId>
     <artifactId>my-cloud-in-action</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>eureka-server</module>
+        <module>hello-service</module>
+        <module>ribbon-consumer</module>
+    </modules>
 
 
 </project>
