@@ -13,6 +13,7 @@
         <module name="eurekaserver" />
         <module name="helloservice" />
         <module name="hello-service" />
+        <module name="zipkinserver" />
         <module name="apigateway" />
         <module name="rabbitmqhello" />
         <module name="feign-consumer" />

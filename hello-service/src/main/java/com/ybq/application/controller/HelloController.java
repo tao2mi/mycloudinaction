@@ -20,7 +20,7 @@ public class HelloController {
 		String host = discoveryClient.getLocalServiceInstance().getHost();
 		String serviceId = discoveryClient.getLocalServiceInstance().getServiceId();
 		logger.info("host: " + host +", serviceId: " + serviceId);
-
+		logger.info("trace server");
 		return "Hello World" + logger.getLevel();
 	}
 

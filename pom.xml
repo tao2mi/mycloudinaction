@@ -16,6 +16,7 @@
         <module>config-server</module>
         <module>bus-hello</module>
         <module>rabbitmq-hello</module>
+        <module>zipkin-server</module>
     </modules>
 
 
