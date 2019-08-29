@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ribbonconsumer" />
+        <module name="bushello" />
         <module name="eureka-server" />
         <module name="ribbon-consumer" />
         <module name="eurekaserver" />
         <module name="helloservice" />
         <module name="hello-service" />
         <module name="apigateway" />
+        <module name="rabbitmqhello" />
         <module name="feign-consumer" />
         <module name="configserver" />
       </profile>

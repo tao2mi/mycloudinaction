@@ -3,10 +3,12 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bus-hello" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feign-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hello-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-hello" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon-consumer" charset="UTF-8" />
   </component>
 </project>

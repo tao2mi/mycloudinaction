@@ -8,5 +8,11 @@ eureka:
       defaultZone: http://peer1:8761/eureka/, http://peer2:8762/eureka/
 spring:
   application:
-    name: feign-consumer
+#    name: feign-consumer
+    name: didispace
+  cloud:
+    config:
+      profile: test
+      label: master
+      uri: http://localhost:7001/
 
