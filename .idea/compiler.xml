@@ -9,10 +9,12 @@
         <module name="ribbonconsumer" />
         <module name="eureka-server" />
         <module name="ribbon-consumer" />
-        <module name="feign-consumer" />
+        <module name="eurekaserver" />
         <module name="helloservice" />
         <module name="hello-service" />
-        <module name="eurekaserver" />
+        <module name="apigateway" />
+        <module name="feign-consumer" />
+        <module name="configserver" />
       </profile>
     </annotationProcessing>
   </component>
